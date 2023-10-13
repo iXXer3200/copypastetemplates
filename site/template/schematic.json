@@ -1,0 +1,17 @@
+{
+  "packID": "",
+  "packVers": "",
+  "schematicName": "",
+  "author": "",
+  "authorSite": "",
+  "schematic": "",
+  "schematicImages": [{
+    "fileName": "image1.png",
+    "title": "Image 1",
+    "caption": "",
+  },{
+    "fileName": "image2.png",
+    "title": "Image 2",
+    "caption": "",
+  },],
+}
